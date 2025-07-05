@@ -4,8 +4,7 @@
 A visually rich and interactive product landing page inspired by Fanta, built with HTML, CSS, JavaScript, and GSAP for scroll-triggered animations.
 
 ## 🚀 Live Demo
-[🔗 Click here to view the live site](https://your-deployment-link.vercel.app/)  
-*(Replace with your actual deployment link)*
+[🔗 Click here to view the live site](https://fanta-product-landing-page.vercel.app/)  
 
 ---
 
